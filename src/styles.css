@@ -37,3 +37,7 @@ body {
   border: 1px solid black;
 }
 
+.section:first-child {
+  margin-top: 0;
+}
+
